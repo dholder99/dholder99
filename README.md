@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Python</b>
-  - [Password Strength Checker](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Password Strength Checker](https://github.com/dholder99/Password-Strength-Checker)
 
 <h2>📺 Popular YouTube Videos</h2>
 
