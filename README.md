@@ -4,6 +4,7 @@
 
 - <b>Python</b>
   - [Password Strength Checker](https://github.com/dholder99/Password-Strength-Checker)
+  - [Password Manager (Encryption)](https://github.com/dholder99/Password-Manager-Encryption-)
 
 <h2> 🤳 Connect with me:</h2>
 
